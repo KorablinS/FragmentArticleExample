@@ -5,4 +5,8 @@
     <string name="question_article">ВАМ НРАВИТСЯ ЭТА СТАТЬЯ?</string>
     <string name="yes">YES</string>
     <string name="no">NO</string>
+    <string name="yes_mesage">LIKE THIS</string>
+    <string name="no_mesage">THANKS FOR ANSWER</string>
+    <string name="title">Cry of o Shadow</string>
+    <string name="article1">Партнером программы стала компания «Брусника.Обмен», входящая в контур девелопера «Брусника» и развивающая направление обмена жилья.</string>
 </resources>
